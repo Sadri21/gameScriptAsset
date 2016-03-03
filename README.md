@@ -1,0 +1,2 @@
+# gameScriptAsset
+game Asset C#
